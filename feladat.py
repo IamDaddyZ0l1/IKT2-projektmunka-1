@@ -1,4 +1,6 @@
 #kérjünk be addig számokat amíg 500 és 1000 között van és páros!
 
-for x ni ram(5)
-print(valami)
+szam = int(input("Kerem a szamot: " )
+           
+while x %2 != 0 and x < 1001 and x > 500:
+  szam = int(input("Kerem a szamot: ")
